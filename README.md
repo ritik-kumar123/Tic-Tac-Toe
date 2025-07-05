@@ -30,11 +30,11 @@ A classic **Tic-Tac-Toe** game built with HTML, CSS, and JavaScript. Play agains
 ---
 
 ## 📁 Project Structure
-┗ 📂 image
-┣ 📄 pic.png
 ┣ 📄 index.html
 ┣ 📄 style.css
 ┣ 📄 script.js
+┗ 📂 image
+┣ 📄 pic.png
 
 ---
 
